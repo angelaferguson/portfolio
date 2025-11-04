@@ -1,0 +1,8 @@
+site_name: Angela Ferguson – Technical Writing Portfolio
+theme:
+  name: material
+  palette:
+    primary: blue grey
+    accent: deep purple
+nav:
+  - Home: index.md
