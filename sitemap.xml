@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://flawlesswords.com/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://flawlesswords.com/how-i-work/</loc>
+         <lastmod>2026-04-02</lastmod>
     </url>
     <url>
          <loc>https://flawlesswords.com/blog/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-04-02</lastmod>
     </url>
     <url>
          <loc>https://flawlesswords.com/blog/Vibecoding%20with%20Docs%20as%20Code/</loc>
-         <lastmod>2026-03-14</lastmod>
+         <lastmod>2026-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://flawlesswords.com/blog/flute-and-technical-writing/</loc>
+         <lastmod>2026-04-02</lastmod>
+    </url>
+    <url>
+         <loc>https://flawlesswords.com/case-studies/style-guide/</loc>
+         <lastmod>2026-04-02</lastmod>
     </url>
 </urlset>
